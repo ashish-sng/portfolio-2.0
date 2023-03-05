@@ -17,12 +17,11 @@ const Navbar = () => {
           window.scrollTo(0,0);
         }}>
           <img src={logo} alt="logo" className='w-9 h-9 object-contain' />
-          <p className='text-white font-bold text-[18px] cursor-pointer'>Ashish Singh</p>
+          <p className='text-white font-bold text-[18px] cursor-pointer flex'>Ashish Singh</p>
         </Link>
 
         <ul className="list-none sm:flex flex-row gap-10">
           {navLinks.map((link) => {
-            console.log(link.title);
             <li key={link.id}
              className={`${active === link.title ? "text-white":"text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
              onClick={()=> setActive(link.title)}

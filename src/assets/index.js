@@ -25,12 +25,20 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import letstream from "./company/letstream.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import crypto from "./crypto.png";
+import memories from "./memories.png";
+import codeplayer from "./codeplayer.png";
 
 export {
+  letstream,
+  crypto,
+  memories,
+  codeplayer,
   logo,
   backend,
   creator,

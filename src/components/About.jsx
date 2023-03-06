@@ -32,10 +32,7 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className="mt-4 text-secondary text-[17px max-w-3xl leading-[30px"
       >
-        I am a skilled MERN stack developer,
-        with an eye for clean, efficient code
-        and a passion for creating user-friendly
-        web applications.
+        A MERN stack developer experienced in React Native mobile development is skilled in MongoDB, ExpressJS, ReactJS, NodeJS, and React Native. I possess analytical and problem-solving skills, keep up-to-date with the latest technologies, and can deliver efficient and robust web and mobile applications that meet client needs.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

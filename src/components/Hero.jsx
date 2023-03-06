@@ -13,7 +13,15 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Ashish</span></h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>I develop mern applications <br className='sm:block hidden'/> using javascript and react</p>
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          A MERN stack developer experienced in<br className='sm:block hidden'/>
+          React Native mobile development <br className='sm:block hidden'/>
+          is proficient in MongoDB,<br className='sm:block hidden'/>
+          ExpressJS, ReactJS,<br className='sm:block hidden'/>
+          NodeJS, and React Native,<br className='sm:block hidden'/>
+          delivering efficient web <br className='sm:block hidden'/>
+          and mobile applications.
+           </p>
         </div>
       </div>
       <ComputersCanvas/>

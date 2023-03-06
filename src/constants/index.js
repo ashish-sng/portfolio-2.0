@@ -253,11 +253,11 @@ const projects = [
       "This code editor for HTML, CSS, and JavaScript comes with a real-time output screen using jQuery. It's a valuable tool for web developers who want to test their code as they work. The user-friendly interface and real-time feedback make it an efficient and time-saving tool.",
     tags: [
       {
-        name: "nextjs",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "jQuery",
         color: "green-text-gradient",
       },
       {

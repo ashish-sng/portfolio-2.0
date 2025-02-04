@@ -185,7 +185,7 @@ const projects = [
   {
     name: "Crypto Tracker",
     description:
-      "The Crypto Tracker web app, made with React JS and MaterialUI, utilizes the Coin Gecko API to display real-time cryptocurrency prices and market data. Its user-friendly interface and responsive design make it a valuable tool for crypto investors and enthusiasts.",
+      "A Progressive Web App (PWA) built with React and Material UI, leveraging the CoinGecko API to deliver near real-time cryptocurrency prices and market insights. Features offline support via Service Workers for reliability in low-network conditions, short polling for real-time data updates every 5 seconds, and optimized performance through modular code splitting and Dockerized deployment.",
     tags: [
       {
         name: "react",

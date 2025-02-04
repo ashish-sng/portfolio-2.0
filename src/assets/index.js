@@ -21,11 +21,15 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-import letstream from "./company/letstream.png";
+import {
+  guardians,
+  techolution,
+  meta,
+  shopify,
+  starbucks,
+  tesla,
+  letstream,
+} from "./company";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -67,4 +71,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  guardians,
+  techolution,
 };
